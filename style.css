@@ -1,0 +1,36 @@
+h1, h2, p{
+  text-align: center;
+display: inline-block;
+
+}
+
+body {
+  background-image: url("https://media.tenor.com/images/7e650b171472ddf6347d248a2fa10275/tenor.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+
+.jumbotron{
+
+  opacity:0.6;
+}
+
+.second, .first {
+opacity:0.8;
+}
+
+#first {
+
+    padding: 10px;
+    background: silver;
+    margin-left: 570px;
+    margin-right: 250px;
+    margin-top: 300px;
+    opacity: 0.5;
+    border-radius: 25px;
+    text-align: center;
+    width:300px;
+
+}
